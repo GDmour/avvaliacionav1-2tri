@@ -62,7 +62,7 @@ nav .menu {
 .banner-principal img {
   display: flex;
   width: 20%;
-  align-items: stretch;
+  align-items: center;
 
 }
 
