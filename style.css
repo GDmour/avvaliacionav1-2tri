@@ -60,10 +60,10 @@ nav .menu {
 }
 
 .banner-principal img {
-  display: block;
+  display: flex;
   width: 20%;
   margin-left: 3cm;
-  vertical-align: middle;
+  align-items: stretch;
 
 }
 
